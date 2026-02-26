@@ -1,0 +1,10 @@
+.DS_Store
+.npm-cache/
+test.wav
+backend/venv/
+backend/venv_compat/
+backend/__pycache__/
+*.pyc
+.env
+ui/node_modules/
+ui/.next/
